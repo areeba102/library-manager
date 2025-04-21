@@ -171,4 +171,4 @@ elif menu == "Statistics":
         st.warning("⚠️ No books in the library yet.")
 
 # Footer
-st.sidebar.info("📌 Developed by Maryam Shahid ❤️ ")
+st.sidebar.info("📌 Developed by Areeba Faisal ❤️ ")
